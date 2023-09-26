@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-REPO="https://github.com/adsbexchange/feedclient.git"
+REPO="https://github.com/Sean-Crabbe-DEV/WVR-Feed-Client.git"
 BRANCH="master"
 IPATH=/usr/local/share/wvr
 mkdir -p $IPATH
